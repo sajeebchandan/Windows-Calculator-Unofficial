@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\IDEs\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

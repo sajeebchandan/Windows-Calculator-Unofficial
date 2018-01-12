@@ -1,0 +1,10 @@
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+D:\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
