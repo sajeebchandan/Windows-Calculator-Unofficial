@@ -75,13 +75,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.buttonCoshinv = new System.Windows.Forms.Button();
-            this.buttonSinhinv = new System.Windows.Forms.Button();
-            this.buttonTanhinv = new System.Windows.Forms.Button();
-            this.buttonTaninv = new System.Windows.Forms.Button();
-            this.buttonCosinv = new System.Windows.Forms.Button();
-            this.buttonSininv = new System.Windows.Forms.Button();
             this.buttonInv = new System.Windows.Forms.Button();
             this.buttonPowerten = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -110,6 +103,13 @@
             this.buttonTanh = new System.Windows.Forms.Button();
             this.buttonExp = new System.Windows.Forms.Button();
             this.buttonOct = new System.Windows.Forms.Button();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.buttonCoshinv = new System.Windows.Forms.Button();
+            this.buttonSinhinv = new System.Windows.Forms.Button();
+            this.buttonTanhinv = new System.Windows.Forms.Button();
+            this.buttonTaninv = new System.Windows.Forms.Button();
+            this.buttonCosinv = new System.Windows.Forms.Button();
+            this.buttonSininv = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -148,8 +148,8 @@
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.groupBox4.SuspendLayout();
-            this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
@@ -680,6 +680,7 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.groupBox2);
             this.groupBox4.Controls.Add(this.buttonInv);
             this.groupBox4.Controls.Add(this.buttonPowerten);
             this.groupBox4.Controls.Add(this.groupBox1);
@@ -710,93 +711,6 @@
             this.groupBox4.Size = new System.Drawing.Size(255, 260);
             this.groupBox4.TabIndex = 5;
             this.groupBox4.TabStop = false;
-            // 
-            // groupBox2
-            // 
-            this.groupBox2.BackColor = System.Drawing.SystemColors.Control;
-            this.groupBox2.Controls.Add(this.buttonCoshinv);
-            this.groupBox2.Controls.Add(this.buttonSinhinv);
-            this.groupBox2.Controls.Add(this.buttonTanhinv);
-            this.groupBox2.Controls.Add(this.buttonTaninv);
-            this.groupBox2.Controls.Add(this.buttonCosinv);
-            this.groupBox2.Controls.Add(this.buttonSininv);
-            this.groupBox2.Location = new System.Drawing.Point(21, 9);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(94, 123);
-            this.groupBox2.TabIndex = 4;
-            this.groupBox2.TabStop = false;
-            // 
-            // buttonCoshinv
-            // 
-            this.buttonCoshinv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonCoshinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCoshinv.Location = new System.Drawing.Point(0, 47);
-            this.buttonCoshinv.Name = "buttonCoshinv";
-            this.buttonCoshinv.Size = new System.Drawing.Size(44, 36);
-            this.buttonCoshinv.TabIndex = 0;
-            this.buttonCoshinv.Text = "cosh⁻ⁱ";
-            this.buttonCoshinv.UseVisualStyleBackColor = false;
-            this.buttonCoshinv.Click += new System.EventHandler(this.buttonCoshinv_Click);
-            // 
-            // buttonSinhinv
-            // 
-            this.buttonSinhinv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonSinhinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonSinhinv.Location = new System.Drawing.Point(0, 7);
-            this.buttonSinhinv.Name = "buttonSinhinv";
-            this.buttonSinhinv.Size = new System.Drawing.Size(44, 36);
-            this.buttonSinhinv.TabIndex = 0;
-            this.buttonSinhinv.Text = "sinh⁻ⁱ";
-            this.buttonSinhinv.UseVisualStyleBackColor = false;
-            this.buttonSinhinv.Click += new System.EventHandler(this.buttonSinhinv_Click);
-            // 
-            // buttonTanhinv
-            // 
-            this.buttonTanhinv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonTanhinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonTanhinv.Location = new System.Drawing.Point(0, 86);
-            this.buttonTanhinv.Name = "buttonTanhinv";
-            this.buttonTanhinv.Size = new System.Drawing.Size(44, 36);
-            this.buttonTanhinv.TabIndex = 0;
-            this.buttonTanhinv.Text = "tanh⁻ⁱ";
-            this.buttonTanhinv.UseVisualStyleBackColor = false;
-            this.buttonTanhinv.Click += new System.EventHandler(this.buttonTanhinv_Click);
-            // 
-            // buttonTaninv
-            // 
-            this.buttonTaninv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonTaninv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonTaninv.Location = new System.Drawing.Point(50, 86);
-            this.buttonTaninv.Name = "buttonTaninv";
-            this.buttonTaninv.Size = new System.Drawing.Size(44, 36);
-            this.buttonTaninv.TabIndex = 0;
-            this.buttonTaninv.Text = "tan⁻ⁱ";
-            this.buttonTaninv.UseVisualStyleBackColor = false;
-            this.buttonTaninv.Click += new System.EventHandler(this.buttonTaninv_Click);
-            // 
-            // buttonCosinv
-            // 
-            this.buttonCosinv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonCosinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCosinv.Location = new System.Drawing.Point(50, 47);
-            this.buttonCosinv.Name = "buttonCosinv";
-            this.buttonCosinv.Size = new System.Drawing.Size(44, 36);
-            this.buttonCosinv.TabIndex = 0;
-            this.buttonCosinv.Text = "cos⁻ⁱ";
-            this.buttonCosinv.UseVisualStyleBackColor = false;
-            this.buttonCosinv.Click += new System.EventHandler(this.buttonCosinv_Click);
-            // 
-            // buttonSininv
-            // 
-            this.buttonSininv.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonSininv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonSininv.Location = new System.Drawing.Point(50, 7);
-            this.buttonSininv.Name = "buttonSininv";
-            this.buttonSininv.Size = new System.Drawing.Size(44, 36);
-            this.buttonSininv.TabIndex = 0;
-            this.buttonSininv.Text = "sin⁻ⁱ";
-            this.buttonSininv.UseVisualStyleBackColor = false;
-            this.buttonSininv.Click += new System.EventHandler(this.buttonSininv_Click);
             // 
             // buttonInv
             // 
@@ -1123,6 +1037,93 @@
             this.buttonOct.Text = "Oct";
             this.buttonOct.UseVisualStyleBackColor = false;
             this.buttonOct.Click += new System.EventHandler(this.buttonOct_Click);
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.BackColor = System.Drawing.SystemColors.Control;
+            this.groupBox2.Controls.Add(this.buttonCoshinv);
+            this.groupBox2.Controls.Add(this.buttonSinhinv);
+            this.groupBox2.Controls.Add(this.buttonTanhinv);
+            this.groupBox2.Controls.Add(this.buttonTaninv);
+            this.groupBox2.Controls.Add(this.buttonCosinv);
+            this.groupBox2.Controls.Add(this.buttonSininv);
+            this.groupBox2.Location = new System.Drawing.Point(56, 89);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(94, 123);
+            this.groupBox2.TabIndex = 4;
+            this.groupBox2.TabStop = false;
+            // 
+            // buttonCoshinv
+            // 
+            this.buttonCoshinv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonCoshinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCoshinv.Location = new System.Drawing.Point(0, 47);
+            this.buttonCoshinv.Name = "buttonCoshinv";
+            this.buttonCoshinv.Size = new System.Drawing.Size(44, 36);
+            this.buttonCoshinv.TabIndex = 0;
+            this.buttonCoshinv.Text = "cosh⁻ⁱ";
+            this.buttonCoshinv.UseVisualStyleBackColor = false;
+            this.buttonCoshinv.Click += new System.EventHandler(this.buttonCoshinv_Click);
+            // 
+            // buttonSinhinv
+            // 
+            this.buttonSinhinv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonSinhinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSinhinv.Location = new System.Drawing.Point(0, 7);
+            this.buttonSinhinv.Name = "buttonSinhinv";
+            this.buttonSinhinv.Size = new System.Drawing.Size(44, 36);
+            this.buttonSinhinv.TabIndex = 0;
+            this.buttonSinhinv.Text = "sinh⁻ⁱ";
+            this.buttonSinhinv.UseVisualStyleBackColor = false;
+            this.buttonSinhinv.Click += new System.EventHandler(this.buttonSinhinv_Click);
+            // 
+            // buttonTanhinv
+            // 
+            this.buttonTanhinv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonTanhinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonTanhinv.Location = new System.Drawing.Point(0, 86);
+            this.buttonTanhinv.Name = "buttonTanhinv";
+            this.buttonTanhinv.Size = new System.Drawing.Size(44, 36);
+            this.buttonTanhinv.TabIndex = 0;
+            this.buttonTanhinv.Text = "tanh⁻ⁱ";
+            this.buttonTanhinv.UseVisualStyleBackColor = false;
+            this.buttonTanhinv.Click += new System.EventHandler(this.buttonTanhinv_Click);
+            // 
+            // buttonTaninv
+            // 
+            this.buttonTaninv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonTaninv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonTaninv.Location = new System.Drawing.Point(50, 86);
+            this.buttonTaninv.Name = "buttonTaninv";
+            this.buttonTaninv.Size = new System.Drawing.Size(44, 36);
+            this.buttonTaninv.TabIndex = 0;
+            this.buttonTaninv.Text = "tan⁻ⁱ";
+            this.buttonTaninv.UseVisualStyleBackColor = false;
+            this.buttonTaninv.Click += new System.EventHandler(this.buttonTaninv_Click);
+            // 
+            // buttonCosinv
+            // 
+            this.buttonCosinv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonCosinv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCosinv.Location = new System.Drawing.Point(50, 47);
+            this.buttonCosinv.Name = "buttonCosinv";
+            this.buttonCosinv.Size = new System.Drawing.Size(44, 36);
+            this.buttonCosinv.TabIndex = 0;
+            this.buttonCosinv.Text = "cos⁻ⁱ";
+            this.buttonCosinv.UseVisualStyleBackColor = false;
+            this.buttonCosinv.Click += new System.EventHandler(this.buttonCosinv_Click);
+            // 
+            // buttonSininv
+            // 
+            this.buttonSininv.BackColor = System.Drawing.SystemColors.Control;
+            this.buttonSininv.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonSininv.Location = new System.Drawing.Point(50, 7);
+            this.buttonSininv.Name = "buttonSininv";
+            this.buttonSininv.Size = new System.Drawing.Size(44, 36);
+            this.buttonSininv.TabIndex = 0;
+            this.buttonSininv.Text = "sin⁻ⁱ";
+            this.buttonSininv.UseVisualStyleBackColor = false;
+            this.buttonSininv.Click += new System.EventHandler(this.buttonSininv_Click);
             // 
             // groupBox3
             // 
@@ -1561,7 +1562,6 @@
             // 
             // panel3
             // 
-            this.panel3.Controls.Add(this.groupBox2);
             this.panel3.Controls.Add(this.groupBox3);
             this.panel3.Location = new System.Drawing.Point(525, 41);
             this.panel3.Name = "panel3";
@@ -1587,9 +1587,9 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.groupBox4.ResumeLayout(false);
-            this.groupBox2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.panel3.ResumeLayout(false);
