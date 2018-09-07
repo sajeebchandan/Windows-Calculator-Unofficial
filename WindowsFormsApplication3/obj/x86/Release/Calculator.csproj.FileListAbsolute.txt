@@ -6,3 +6,10 @@ F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsF
 F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.exe
 F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.pdb
 F:\IDEs\Visual Studio 2015\Projects\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Form1.resources
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.Properties.Resources.resources
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.exe
+H:\IDEs\git\Calculator\WindowsFormsApplication5\WindowsFormsApplication3\obj\x86\Release\WindowsFormsApplication3.pdb

@@ -72,7 +72,7 @@ namespace WindowsFormsApplication3
             groupBox4.Visible = false;
             this.Width = 271;
             this.Height = 410;
-            textBox1.Width = 244;
+            textBox1.Width = 245;
             standerdToolStripMenuItem.Checked = true;
 
         }
@@ -489,7 +489,7 @@ namespace WindowsFormsApplication3
             this.Width = 271;
             this.Height = 410;
             panel1.Width = 255;
-            textBox1.Width = 244;
+            textBox1.Width = 245;
             label3.Width = 244;
             panel1.Visible = true;
             textBox1.Text = "0";
@@ -507,8 +507,8 @@ namespace WindowsFormsApplication3
             this.Height = 410;
             panel3.Visible = false;
             panel1.Width = 510;
-            textBox1.Width = 502;
-            label3.Width = 500;
+            textBox1.Width = 505;
+            label3.Width = 503;
             panel1.Visible = true;
             textBox1.Focus();
         }

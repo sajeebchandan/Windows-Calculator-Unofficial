@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "WindowsFormsApplication3\Calculator.csproj", "{408F5D43-E897-4729-9069-21B36C0B0094}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CalculatorSetup", "CalculatorSetup\CalculatorSetup\CalculatorSetup.vdproj", "{B62412FB-2C97-42DC-A508-FB011A54DB59}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -17,8 +15,6 @@ Global
 		{408F5D43-E897-4729-9069-21B36C0B0094}.Debug|x86.Build.0 = Debug|x86
 		{408F5D43-E897-4729-9069-21B36C0B0094}.Release|x86.ActiveCfg = Release|x86
 		{408F5D43-E897-4729-9069-21B36C0B0094}.Release|x86.Build.0 = Release|x86
-		{B62412FB-2C97-42DC-A508-FB011A54DB59}.Debug|x86.ActiveCfg = Debug
-		{B62412FB-2C97-42DC-A508-FB011A54DB59}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
